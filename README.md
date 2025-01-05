@@ -1,4 +1,4 @@
-![Game Screenshot]("D:\Programmer\code\game_sample(1).png")
+![Game Screenshot]("https://raw.githubusercontent.com/frank-quoc/Alien-Invasion/master/images/game_sample.png")
 
 
 # Alien Invasion Game
