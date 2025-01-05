@@ -1,3 +1,6 @@
+![Game Screenshot]("D:\Programmer\code\game_sample(1).png")
+
+
 # Alien Invasion Game
 
 Alien Invasion is a classic arcade-style game built using Python and Pygame. The objective of the game is to shoot down the aliens before they reach the bottom of the screen.
